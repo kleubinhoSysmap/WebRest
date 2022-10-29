@@ -72,7 +72,7 @@ export const ImageDesign = styled.img`
 `;
 
 export const Contact = styled.div`
-  min-height: 40rem;
+  min-height: 30rem;
   display: flex;
   align-items: center;
   justify-content: center;
